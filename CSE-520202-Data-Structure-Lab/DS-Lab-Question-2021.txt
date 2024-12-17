@@ -1,0 +1,12 @@
+1. Write a program to find the maximum and minimum value from a given array.
+2. Write a program to search an element from the entered array by the Binary Search Algorithm.
+3. Write a program to implement first pattern matching algorithm.
+4. Write a program that implements Tower of Hanoi problem by using a recursive function.
+5. Write a program that implements all major Stack operations.
+6. Write a program that implements all major Queue operations.
+7. Write a program to implement the Quick Sort algorithm.
+8. Write a program to evaluate postfix notation expression.
+9. Write a program to insert an element into a Linked List.
+10. Write a program to  traverse a binary tree in any order.
+11. Write a program to implement Minimum Spinning Tree (MST) by using Prims Algorithm.
+12. Write a program that calculates the total number of characters, digits and special characters from a line of text.

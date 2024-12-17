@@ -1,0 +1,12 @@
+1. Write a program to find the maximum and minimum value from a given array.
+2. Write a program to search an element from the entered array by the Linear Search Algorithm.
+3. Write a program to search an element from the entered array by the Binary Search Algorithm.
+4. Write a program that finds the value of factorial of N by using recursive function technique.5. Write a program that implements Tower of Hanoi problem by using a recursive function.
+6. Write a program that operates the Stack (Push, Pop) operation.
+7. Write a program that operates the Queue (Enqueue, Dequeue) operation.
+8. Write a program to implement the Bubble Sort algorithm.
+9. Write a program to implement the Quick Sort algorithm.10. Write a program to operate insert operation of Linked List.11. Write a program to operate delete operation of Linked List.12. Write a program to operate Pre-order tree traversing technique.13. Write a program to operate Post-order tree traversing technique.
+14. Write a program to implement Minimum Spinning Tree (MST) by using Prims Algorithm.
+15. Write a program to implement single source shortest path Bellman-Ford Algorithm.
+16. Write a program that calculates the total number of characters, digits and special characters from a
+line of text.

@@ -1,0 +1,10 @@
+1. Write a C++/Java program to enter any number and find its factorial using constructor.
+2. Write a C++/Java program to swap two numbers declared in two different classes using friend function.
+3. Write a C++/Java program to find the greatest of three given numbers in three different classes using friend function.
+4. Write a C++/Java program for calculating the area of triangle, circle and rectangle using the concept of function overloading.
+5. Write a C++/Java program to perform addition of two complex numbers using constructor overloading.
+6. Create a class TIME with members hours, minutes and seconds. Take input, add two time objects passing objects to function and display result.
+7. Create a class student which has data members as name, semester, roll no, section and marks in five subjects. Write a C++/Java program to display all information of the students with total marks.
+8. Write a C++/Java program to find the square and cube of a number read from keyboard. (Demonstrate the concept of inheritance)
+9. Write a C++/Java program to append the contents of a file into another.
+10. Write a C++/Java program to read a set of lines from the keyboard and to store it in a specific file.
